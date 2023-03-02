@@ -1,5 +1,11 @@
 async function getData(place){
 
+    const res=await fetch(url)
+    data=await res.json()
+    time=data.datatime
+
+    
+
 }
 document.querySelectorAll(".allPaths").forEach(e=>{
     e.addEventListener("mouseover",function(){
