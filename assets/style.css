@@ -13,7 +13,7 @@ h1
     text-shadow: blue;
     
 }
-.svg
+.mapsl
 {
     width: 600px;
     margin-left: 70%;
@@ -21,10 +21,10 @@ h1
     height: 996px;
     top: 10%;
 }
-.svg path
+.mapsl path
 {
     fill: transparent;
-    stroke: rgb(105, 162, 162);
+    stroke: aqua;
     stroke-width: 1px;
     transition: fill 0.3s;
 }
