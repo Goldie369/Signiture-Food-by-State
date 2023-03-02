@@ -1,14 +1,13 @@
 
-body{
-    background-image:url(RD-americas-favorite-foods-FT-Getty-Images-7-JValentine.jpg);
-    overflow-y: hidden;
-    overflow-x: hidden;
-}
+body
+   { background-image:url(RD-americas-favorite-foods-FT-Getty-Images-7-JValentine.jpg);
+    background-size: cover;
+   }
 
 h1
 
 {
-    font-size: 30px;
+    font-size:30px;
     color: red;
     text-align: center;
     text-shadow: blue;
@@ -16,11 +15,11 @@ h1
 }
 .mapsl
 {
-    width: 50px;
+    width: 500px;
     margin-left: 40%;
-    margin-top: 2%;
-    height: -10x;
-    top: -10%;
+    margin-top: -38%;
+    height: 700px;
+    top: 10%;
 }
 .mapsl path
 {
