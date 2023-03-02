@@ -8,17 +8,19 @@ body{
 h1
 
 {
-    font-size: 50px;
-    color: greenyellow;
-    text-align: left;
+    font-size: 30px;
+    color: red;
+    text-align: center;
+    text-shadow: blue;
+    
 }
 .mapsl
 {
-    width: 500px;
-    margin-left: 5%;
-    margin-top: -10%;
-    height: 800px;
-    top: 10%;
+    width: 50px;
+    margin-left: 40%;
+    margin-top: 2%;
+    height: -10x;
+    top: -10%;
 }
 .mapsl path
 {
@@ -30,5 +32,5 @@ h1
 
 .mapsl :hover
 {
-    fill: #9b9b9b;
+    inline-size: #9b9b9b;
 }
